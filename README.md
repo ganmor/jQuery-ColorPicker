@@ -1,3 +1,5 @@
+Require Version, you must define "tpl!colorpickertemplate", "css!colorpickercss" in paths
+
 #ColorPicker
 
 This is **yet another colorpicker** plugin for jQuery since most of them are not on GitHub nor being mantained at the moment.
